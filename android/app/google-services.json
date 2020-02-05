@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "900050765131",
+    "firebase_url": "https://nejmauser-85682.firebaseio.com",
+    "project_id": "nejmauser-85682",
+    "storage_bucket": "nejmauser-85682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900050765131:android:61e70e5f3deedae8dc14ce",
+        "android_client_info": {
+          "package_name": "com.nejmatalent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900050765131-3p34hnkecm329cfb0ivnt3qjgcgqbcef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwpH5sPkwN77wMdImK0r6ctVaOG_auww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900050765131-3p34hnkecm329cfb0ivnt3qjgcgqbcef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900050765131-emvg3mmpt698t2jl33ovabmub0abegf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nejma"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900050765131:android:44278c378ef5db2fdc14ce",
+        "android_client_info": {
+          "package_name": "com.nejmauser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900050765131-2mfullr9sm1nmt5dlmprsjo15hlda884.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nejmauser",
+            "certificate_hash": "b07dcaa15be6ffd0612734488d0a2d010ce1431b"
+          }
+        },
+        {
+          "client_id": "900050765131-nuuf10gd7dh5cg024rqj0oone8004923.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nejmauser",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "900050765131-3p34hnkecm329cfb0ivnt3qjgcgqbcef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwpH5sPkwN77wMdImK0r6ctVaOG_auww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900050765131-3p34hnkecm329cfb0ivnt3qjgcgqbcef.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900050765131-emvg3mmpt698t2jl33ovabmub0abegf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nejma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

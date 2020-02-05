@@ -1,0 +1,268 @@
+{
+  "globalValues" : {
+    "NothingText" : "Nothing to show, pull to refresh!",
+    "AlertOKBtn" : "Okay",
+    "Currency" : "USD",
+    "ContactThanks" : "Thanks for contacting us, we'll get back to you soon!",
+    "NetAlert" : "You are not connected to Internet",
+    "VideoSave" : "Don't have permissions to save video.",
+    "RetryAlert" : "Problem occured, you can retry!",
+    "DiductionText" : "will be deducted as a Nejma fee.",
+    "loggedout" : "You have been logged out!",
+    "PhoneNumberValidation" : "Please enter valid phone number length(6-15 characters)"
+  },
+  "Splash" : {
+    "facebookBTN" : "CONTINUE USING FACEBOOK",
+    "emailBTN" : "CONTINUE USING EMAIL",
+    "loginBTN" : "Login",
+    "acceptanceText" : "By signing up you agree to our terms of use",
+  },
+  "home" : {
+    "bookText" : "Book Personalized Shoutouts from your",
+    "welcomeText" : "Welcome To Nejma",
+    "favPeople" : "favorite people",
+    "fb_button" : "Continue With Facebook",
+    "email" : "Continue With Google",
+    "account" : "Create An Account",
+    "oldUser" : "Already a user?",
+    "login" : "Log In",
+    "message" : "By signing up you agree to our terms of use",
+  },
+  "register" : {
+    "register" : "Register",
+    "heading" : "We're Glad to have you onboard",
+    "byCreating": "By Creating an account, I Agree to Nejma's",
+    "privacy" : "Privacy Policy",
+    "and" : "&",
+    "terms" : "Terms Of Service",
+    "emailInput" : "Enter Email",
+    "name" : "Name",
+    "email" : "Email",
+    "phoneInput" : "Phone Number",
+    "placeholderEmail" : "Enter Email",
+    "placeholderNumber" : "Enter Phone Number",
+    "placeholderPassword" : "Set Password",
+    "username" : "Username",
+    "password" : "Password"
+  },
+  "Register1" : {
+    "registerText" : "Register",
+    "mainText" : "Enter your email and phone number to register on to FamCam",
+    "emailLabel" : "Enter Email",
+    "phoneLabel" : "Phone Number",
+    "passwordLabel" : "Enter Password",
+  },
+  "OTPScreen" : {
+    "OTPText" : "OTP Verification",
+    "mainText" : "Please enter the verification code sent on",
+    "resendLabel" : "Resend OTP",
+    "OtpSuccess" : "OTP sent successfully",
+    "4DigitAlert" : "OTP is of 4 digits!",
+    "InvalidOtp" : "The code you entered is incorrect. Please check the code and try again.",
+    "IncorrectOtpAlert" : "OTP is incorrect"
+  },
+  "ProfileDiscover" : {
+    "Next" : "Next", 
+    "ProfileDiscoverText" : "Who are you",
+    "mainText" : "Tell us more about yourself so people can discover you easily.",
+    "conditionText" : "(Only Two)",
+    "CategoryRequired" : "At least 1 category is required!",
+    "updateSuccessAlert" : "Your Details has been updated"
+  },
+  "Profile1" : {
+    "profileText" : "Profile Setup",
+    "picLabel" : "Please upload a professional and high quality image.",
+    "nameLabel" : "Full Name",
+    "bioLabel" : "Bio",
+    "ImagePickPermisson" : "Don't have permissions to select image.",
+    "PictureRequired" : "Profile Picture is required."
+  },
+  "Profile2" : {
+    "profileText" : "Profile Setup",
+    "socialLabel" : "Where can we find you?",
+    "socialSelect" : "Select",
+    "social1" : "Twitter",
+    "social2" : "Instagram",
+    "social3" : "Facebook",
+    "social4" : "Snapchat",
+    "handleLabel" : "Your Account name",
+    "handlePlaceholder" : "@accountname",
+    "phoneLabel" : "Phone number",
+    "conditionText" : "(Optional)",
+    "phonePlaceholder" : "Enter phone number",
+    "followersLabel" : "How many followers do you have?",
+    "followersPlaceholder" : "Followers Count eg:- 500K",
+    "SocialRequired" : "Social Platform is required!"
+  },
+  "Login1" : {
+    "loginText" : "Login",
+    "mainText" : "Enter your email to login to FamCam",
+    "emailOrphoneLabel" : "Enter Email",
+    "passwordLabel" : "Enter Password",
+    "forgotBTN" : "FORGOT PASSWORD?",
+    "NotificationText" : "For timely notifications, make sure app notifications are always enabled",
+    "login" : "Login",
+    "email" : "Username or Email",
+    "heading" : "Enter your email to login to FamCam",
+    "forgotPassword" : "Forgot Password?",
+     "gladText" : "Glad to see you again",
+    "placeholder" : "Enter Email",
+    "placeholder2" : "Enter Password"
+  },
+  "ForgotPassword" : {
+    "forgotText" : "Forgot Password?",
+    "mainText" : "Just enter your phone number, we will send a password reset soon.",
+    "phoneLabel" : "Phone Number",
+    "text" : "Forgot Password?",
+    "heading" : "Just Enter your email id, we will send a password reset soon.",
+    "placeholder" : "Phone Number",
+    "SuccessAlertText" : "Link has been sent to your account",
+    "submit" : "Submit"
+  },
+  "Home" : {
+    "welcomeText" : "Welcome",
+    "profileBTN" : "View Profile",
+    "requestsText" : "Pending requests",
+    "rejectBTN" : "Reject Request ",
+    "forText" : "FOR",
+    "DayAgo" : "day ago",
+    "DaysAgo" : "days ago",
+    "HourAgo" : "hour ago",
+    "HoursAgo" : "hours ago",
+    "MinuteAgo" : "minute ago",
+    "MinutesAgo" : "minutes ago",
+    "SecondAgo" : "second ago",
+    "SecondsAgo" : "seconds ago",
+    "HourLeft" : "hour left",
+    "HoursLeft" : "hours left",
+    "MinuteLeft" : "minutes left",
+    "MinutesLeft" : "minutes left",
+    "SecondLeft" : "second left",
+    "SecondsLeft" : "seconds left",
+    "VIPLabel" : "VIP requests",
+    "emailCheckText" : "Your email isn’t verified yet.",
+    "emailCheckBTN" : "Resend",
+    "ResendEmailText" : "Email has been resend successfully!",
+    "RecordPermission" : "Don't have permissions to record video!"
+  },
+  "CameraScreen" : {
+    "StopVideoText" : "Are you sure you want to stop video?",
+    "MessageLabel" : "Message",
+    "YesLabel": "Yes",
+    "NoLabel": "No"
+  },
+  "Preview" : {
+    "RetryText" : "Retry",
+    "uploadingText" : "Your video is uploading",
+    "uploadingText1" : "You will receive a push notification when your video goes live!",
+    "RetryAlert" : "Problem occured, you can retry!",
+    "SuccessAlert" : "Video uploaded successfully!",
+    "FailedAlert" : "Failed to upload video!"
+  },
+  "RejectReason" : {
+    "titleText" : "Reason?",
+    "option1" : "Inappropriate",
+    "option2" : "Racist",
+    "option3" : "Advertising",
+    "option4" : "Offensive",
+    "option5" : "Others",
+    "cancelText" : "CANCEL",
+    "doneText" : "SUBMIT",
+    "otherPlaceholder" : "Enter your reason...",
+    "ReasonRequired" : "Reason is required!"
+  },
+  "Profile" : {
+    "VideoTabLabel" : "LATEST VIDEOS",
+    "PaymentTabLabel" : "PAYMENTS"
+  },
+  "Settings" : {
+    "settingsText" : "Settings",
+    "label1" : "Account",
+    "l1O1" : "Up for Work",
+    "l1O2" : "Accept VIP requests",
+    "l1O3" : "Change Password",
+    "l1O4" : "Change Price",
+    "l1O5" : "Language",
+    "l1O6" : "Bank Account Details",
+    "label2" : "About",
+    "l2O1" : "Privacy Policy",
+    "l2O2" : "Contact Us",
+    "l2O3" : "Terms of Service",
+    "logutBTN" : "LOGOUT",
+    "LogOutText" : "Are you sure you want to log out?",
+    "YesLabel": "Yes",
+    "NoLabel": "No"
+  },
+  "CategoryPrice" : {
+    "categoryPriceText" : "Select Price"
+  },
+  "ChangePassword" : {
+    "passwordText" : "Change Password",
+    "mainText" : "Enter new password to update.",
+    "passwordLabel" : "New Password",
+    "confirmPasswordLabel" : "Confirm Password",
+    "noMatch" : "Passwords does not match!",
+    "SuccessAlert" : "Password changed succefully!"
+  },
+  "ChangePrice" : {
+    "PriceText" : "Change Price",
+    "UpdateBTN" : "Update",
+    "SuccessAlert" : "Price changed succefully!"
+  },
+  "Payments" : {
+    "MessageLabel" : "MESSAGE",
+    "BalanceLabel" : "NET BALANCE",
+    "PayBTN" : "PAY-OUT",
+    "amountRecieved" : "Amount Recieved",
+    "amountPending" : "Amount Pending"
+  },
+  "Language" : {
+    "LanguageText" : "Select Language",
+    "ArabicText" : "Arabic",
+    "EnglishText" : "English",
+    "SaveBTN" : "Save"
+  },
+  "TermsOfService" : {
+    "TermsOfServiceText" : "Terms of Service"
+  },
+  "PrivacyPolicy" : {
+    "PrivacyPolicyText" : "Privacy Policy"
+  },
+  "ContactUs" : {
+    "ContactUsText" : "Contact Us",
+    "MainText" : "If you have any issue, problem with the order, any problem with the application or any feedback contact us.(we will respond within 24hr)",
+    "InputText" : "Enter your message...",
+    "SendBTN" : "Send",
+    "SuccessAlert" : "Thanks for contacting us, we'll get back to you soon!"
+  },
+  "EditProfile" : {
+    "EditText" : "Edit profile",
+    "PictureBTN" : "Tap to change picture",
+    "PicLabel" : "Please upload a professional and high quality image.",
+    "NameLabel" : "Full name",
+    "BioLabel" : "Bio",
+    "ProfessionLabel" : "Who are you?",
+    "AccountLabel" : "Account info",
+    "EmailLabel" : "Email",
+    "ChangeBTN" : "CHANGE",
+    "EVerifyLabel" : "Your account is not verified!",
+    "EVerifyText" : "We need to verify your account. Please visit your inbox and open the verification link sent by FamCam",
+    "ResendBTN" : "RESEND VERIFICATION LINK",
+    "CameraPermission":"Don't have permissions to select image."
+  },
+   "Thanks" : {
+     "Text1" : "Thanks for Registration!",
+     "Text2" : "Please wait for verification",
+     "Text3" : "You will get notified through email & sms"
+   },
+   "BankDetail" : {
+     "bankDetailText" : "Bank Account Details",
+     "mainText" : "Add your bank account details to recieve payments.",
+     "bankName" : "Bank name",
+     "accHolderName" : "Account holder name",
+     "accNumber" : "Account number",
+     "ibanNumber" : "IBAN number",
+     "skipButton" : "SKIP for now!",
+     "addedALert" : "Account details added successfully!"
+   }
+}

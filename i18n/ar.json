@@ -1,0 +1,268 @@
+{
+  "globalValues" : {
+    "NothingText" : "لا يوجد طلبات، إسحب الشاشة للتحديث",
+    "AlertOKBtn" : "نعم ",
+    "Currency" : "ر.س",
+    "ContactThanks" : "شكرًا على اتصالك بنا ، وسنوافيك بالرد قريبًا.",
+    "NetAlert" : "أنت غير متصل بالإنترنت",
+    "VideoSave" : "ليس لديك أذن لحفظ الفيديو.",
+    "DiductionText" : "سيتم خصم رسوم النجمة.",
+    "loggedout" : "لقد تم تسجيل الخروج!",
+    "PhoneNumberValidation" : "يرجى إدخال رقم هاتف صحيح (من 6 إلى 15 حرفًا)",
+    "RetryAlert" : "حدثت مشكلة ، يمكنك إعادة المحاولة!"
+  },
+  "Splash" : {
+    "facebookBTN" : "سجل عن طريق الفيسبوك",
+    "emailBTN" : "سجل عن طريق البريد الإلكتروني",
+    "loginBTN" : "تسجيل الدخول",
+    "acceptanceText" : "من خلال التسجيل فإنك توافق على شروط واحكام الاستخدام الخاصة بنا",
+  },
+  "Register1" : {
+    "registerText" : "تسجيل",
+    "mainText" : "أدخل بريدك الإلكتروني ورقم جوالك للتسجيل في فام كام",
+    "emailLabel" : "أدخل البريد الإلكتروني",
+    "phoneLabel" : "رقم الجوال",
+    "passwordLabel" : "أدخل كلمة المرور",
+  },
+  "register" : {
+    "register" : "تسجيل",
+    "heading" : "نحن سعداء أن يكون لك على متن الطائرة",
+    "byCreating" : "عن طريق إنشاء حساب ، أوافق على نجمة",
+    "emailInput" : "أدخل البريد الإلكتروني",
+    "terms" : "شروط الخدمة",
+    "privacy" : "سياسة الخصوصية",
+    "email" : "البريد الإلكتروني",
+    "name" : "اسم",
+    "and" : "و",
+    "phoneInput" : "رقم الجوال",
+    "placeholderEmail" : "أدخل البريد الإلكتروني",
+    "placeholderNumber" : "أدخل رقم الجوال",
+    "placeholderPassword" : "ضبط كلمة السر",
+    "username" : "اسم المستخدم",
+    "password" : "كلمه السر"
+  },
+  "OTPScreen" : {
+    "OTPText" : "توثيق",
+    "mainText" : "يرجى كتابة رمز التحقق المرسل إليه",
+    "resendLabel" : "إعادة إرسال رمز التحقق",
+    "OtpSuccess" : "تم إرسال رمز التوثيق",
+    "4DigitAlert" : "رمز التحقق يتكون من 4 أرقام!",
+    "InvalidOtp" : "الرمز الذي أدخلته غير صحيح. يرجى التحقق من الرمز والمحاولة مرة أخرى.",
+    "IncorrectOtpAlert" : "رمز التحقق غير صحيح"
+  },
+  "home" : {
+    "bookText" : "كتاب صيحات شخصية من",
+    "favPeople" : "أناس مفضلين",
+    "welcomeText" : "مرحبا بكم في نجمة",
+    "fb_button" : "تواصل مع الفيسبوك",
+    "email" : "تواصل مع جوجل",
+    "account" : "انشئ حساب",
+    "oldUser" : "هل أنت مستخدم بالفعل؟",
+    "login" : "تسجيل الدخول",
+    "message" : "من خلال التسجيل فإنك توافق على شروط واحكام الاستخدام الخاصة بنا"
+  },
+  "ProfileDiscover" : {
+    "Next" : "التالى",
+    "ProfileDiscoverText" : "من انت؟",
+    "mainText" : "أخبرنا المزيد عن نفسك حتى يتمكن الناس من معرفتك بسهولة.",
+    "conditionText" : "(اثنين فقط)",
+    "CategoryRequired" : "مطلوب فئة واحدة على الأقل!",
+    "updateSuccessAlert" : "تم تحديث التفاصيل الخاصة بك"
+  },
+  "Profile1" : {
+    "profileText" : "إعداد الملف الشخصي",
+    "picLabel" : "يرجى تحميل صورة احترافية وعالية الجودة.",
+    "nameLabel" : "الاسم الكامل",
+    "bioLabel" : "حول",
+    "ImagePickPermisson" : "ليس لديك أذن لتحديد الصورة.",
+    "PictureRequired" : "صورة العرض مطلوبة"
+  },
+  "Profile2" : {
+    "profileText" : "إعداد الملف الشخصي",
+    "socialLabel" : "أين نستطيع العثور عليك؟",
+    "socialSelect" : "إختر",
+    "social1" : "Twitter",
+    "social2" : "Instagram",
+    "social3" : "Facebook",
+    "social4" : "Snapchat",
+    "handleLabel" : "اسم المستخدم",
+    "handlePlaceholder" : "@اسم المستخدم",
+    "phoneLabel" : "رقم الجوال",
+    "conditionText" : "(اختياري)",
+    "phonePlaceholder" : "أدخل رقم الجوال",
+    "followersLabel" : "كم عدد المتابعين لديك؟",
+    "followersPlaceholder" : "عدد المتابعين على سبيل المثال: - 500K",
+    "SocialRequired" : "حساب التواصل الإجتماعي مطلوب"
+  },
+  "Login1" : {
+    "loginText" : "تسجيل الدخول",
+    "mainText" : "أدخل بريدك الإلكتروني لتسجيل الدخول في فام كام",
+    "emailOrphoneLabel" : "أدخل البريد الإلكتروني",
+    "passwordLabel" : "أدخل كلمة المرور",
+    "forgotBTN" : "هل نسيت كلمة المرور؟",
+    "login" : "تسجيل الدخول",
+    "gladText" : "سعيد لرؤيتك مرة أخرى",
+    "email" : "اسم المستخدم أو البريد الالكتروني",
+    "heading" : "أدخل بريدك الإلكتروني لتسجيل الدخول في فام كام",
+    "forgotPassword" : "هل نسيت كلمة المرور",
+    "placeholder" : "أدخل البريد الإلكتروني",
+    "placeholder2" : "أدخل كلمة المرور",
+    "NotificationText" : "لعدم التاخر في إنهاء الطلبات ، تأكد من تمكين إشعارات التطبيق دائمًا"
+  },
+  "ForgotPassword" : {
+    "forgotText" : "هل نسيت كلمة المرور؟",
+    "mainText" : " أدخل رقم الجوال وسوف يتم ارسال بريد الكتروني لإعادة تعيين كلمة المرور قريبًا.",
+    "phoneLabel" : "رقم الجوال",
+    "text" : "Forgot Password?",
+    "heading" : "Just Enter your email id, we will send a password reset soon.",
+    "placeholder" : "Phone Number",
+    "SuccessAlertText" : "Link has been sent to your account",
+    "submit" : "Submit"
+  },
+  "Home" : {
+    "welcomeText" : "مرحبا",
+    "profileBTN" : "عرض الصفحة الشخصية",
+    "forText" : "الى",
+    "requestsText" : "طلبات قيد الإنتظار",
+    "rejectBTN" : "رفض الطلب",
+    "DayAgo" : "منذ يوم",
+    "DaysAgo" : "منذ أيام",
+    "HourAgo" : "منذ ساعة",
+    "HoursAgo" : "منذ ساعات",
+    "MinuteAgo" : "منذ دقيقة",
+    "MinutesAgo" : "منذ دقائق",
+    "SecondAgo" : "قبل ثانية",
+    "SecondsAgo" : "منذ ثوانى",
+    "HourLeft" : "ساعة متبقية",
+    "HoursLeft" : "ساعات متبقية",
+    "MinuteLeft" : "الدقيقة المتبقية",
+    "MinutesLeft" : "تبقى دقائق",
+    "SecondLeft" : "تبقى ثانية",
+    "SecondsLeft" : "تبقى ثواني",
+    "VIPLabel" : "طلبات VIP",
+    "emailCheckText" : "لم يتم التحقق من بريدك الإلكتروني حتى الآن.",
+    "emailCheckBTN" : "إعادة إرسال",
+    "ResendEmailText" : "تمت إعادة إرسال البريد الإلكتروني بنجاح!",
+    "RecordPermission" : "ليس لديك أذن لتسجيل الفيديو!"
+  },
+  "CameraScreen" : {
+    "StopVideoText" : "هل أنت متأكد من أنك تريد إيقاف الفيديو؟",
+    "MessageLabel" : "الرسالة",
+    "YesLabel": "نعم ",
+    "NoLabel": "لا"
+  },
+  "Preview" : {
+    "RetryText" : "إعادة",
+    "uploadingText" : "يتم تحميل الفيديو الخاص بك",
+    "uploadingText1" : "ستتلقى إشعارًا عندما يتم إرسال الفيديو!",
+    "RetryAlert" : "حدثت مشكلة ، يمكنك إعادة المحاولة!",
+    "SuccessAlert" : "تم تحميل الفيديو بنجاح!",
+    "FailedAlert" : "فشل في تحميل الفيديو!"
+  },
+  "RejectReason" : {
+    "titleText" : "السبب؟",
+    "option1" : "غير مناسب",
+    "option2" : "عنصري",
+    "option3" : "دعاية",
+    "option4" : "بذيء",
+    "option5" : "آخر",
+    "cancelText" : "إلغاء",
+    "doneText" : "إرسال",
+    "otherPlaceholder" : "أدخل السبب  ...",
+    "ReasonRequired" : "السبب مطلوب!"
+  },
+  "Profile" : {
+    "VideoTabLabel" : "أحدث المقاطع",
+    "PaymentTabLabel" : "المدفوعات"
+  },
+  "Settings" : {
+    "settingsText" : "إعدادات",
+    "label1" : "الحساب",
+    "l1O1" : "إيقاف إستقبال الطلبات",
+    "l1O2" : "قبول طلبات الـ VIP",
+    "l1O3" : "تغيير كلمة السر",
+    "l1O4" : "تغيير السعر",
+    "l1O5" : "لغة",
+    "l1O6" : "بيانات الحساب البنكي",
+    "label2" : "حول",
+    "l2O1" : "سياسة الخصوصية",
+    "l2O2" : "اتصل بنا",
+    "l2O3" : "شروط الخدمة",
+    "logutBTN" : "الخروج",
+    "LogOutText" : "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+    "YesLabel": "نعم ",
+    "NoLabel": "لا"
+  },
+  "CategoryPrice" : {
+    "categoryPriceText" : "اختر السعر"
+  },
+  "ChangePassword" : {
+    "passwordText" : "تغيير كلمة السر",
+    "mainText" : "أدخل كلمة المرور الجديدة للتحديث.",
+    "passwordLabel" : "كلمة السر الجديدة",
+    "confirmPasswordLabel" : "تأكيد كلمة المرور",
+    "noMatch" : "كلمات السر غير متطابقة!",
+    "SuccessAlert" : "تم تغيير الرقم السري بنجاح!"
+  },
+  "ChangePrice" : {
+    "PriceText" : "تغيير السعر",
+    "UpdateBTN" : "تحديث",
+    "SuccessAlert" : "تم تغير السعر بنجاح!"
+  },
+  "Payments" : {
+    "MessageLabel" : "رسالة",
+    "BalanceLabel" : "الرصيد الصافي",
+    "PayBTN" : "سيصرف",
+    "amountRecieved" : "تم استلام المبلغ",
+    "amountPending" : " المبلغ معلق"
+  },
+  "Language" : {
+    "LanguageText" : "اختر اللغة",
+    "ArabicText" : "العربية",
+    "EnglishText" : "الإنجليزية",
+    "SaveBTN" : "حفظ"
+  },
+  "TermsOfService" : {
+    "TermsOfServiceText" : "شروط الخدمة"
+  },
+  "PrivacyPolicy" : {
+    "PrivacyPolicyText" : "سياسة الخصوصة"
+  },
+  "ContactUs" : {
+    "ContactUsText" : "اتصل بنا",
+    "MainText" : "إذا كان لديك أي مشكلة مع طلب حالي أو في التطبيق أو أي ملاحظات عامة اتصل بنا.(سيتم الرد خلال ٢٤ ساعه)",
+    "InputText" : "أدخل رسالتك...",
+    "SendBTN" : "إرسال",
+    "SuccessAlert" : "شكرًا على اتصالك بنا ، وسنوافيك بالرد قريبًا."
+  },
+  "EditProfile" : {
+    "EditText" : "تعديل الملف الشخصي",
+    "PictureBTN" : "اضغط لتغيير الصورة",
+    "PicLabel" : "يرجى تحميل صورة احترافية وعالية الجودة.",
+    "NameLabel" : "الاسم الكامل",
+    "BioLabel" : "حول",
+    "ProfessionLabel" : "من أنت؟",
+    "AccountLabel" : "معلومات الحساب",
+    "EmailLabel" : "البريد الإلكتروني",
+    "ChangeBTN" : "تغيير",
+    "EVerifyLabel" : "نحن بحاجة إلى التحقق من حسابك. يرجى زيارة صندوق البريد وفتح رابط التحقق المرسل من فام كام",
+    "EVerifyText" : "نحن بحاجة إلى التحقق من حسابك. يرجى زيارة صندوق البريد وفتح رابط التحقق المرسل من FamCam",
+    "ResendBTN" : "إعادة التحقق من الارتباط",
+    "CameraPermission": "ليس لديك أذن لتحديد الصورة"
+  },
+  "Thanks" : {
+    "Text1" : "شكرا لتسجيلك في فام كام!",
+    "Text2" : "يرجى الانتظار للتحقق",
+    "Text3" : "سوف تحصل على إشعار من خلال البريد الإلكتروني والرسائل القصيرة"
+  },
+  "BankDetail" : {
+    "bankDetailText" : "بيانات الحساب البنكي",
+    "mainText" : "أضف بيانات حسابك لاستلام المدفوعات",
+    "bankName" : "اسم البنك",
+    "accHolderName" : "اسم صاحب الحساب",
+    "accNumber" : "رقم الحساب",
+    "ibanNumber" : "رقم الايبان",
+    "skipButton" : "تخطى هذه الخطوة مؤقتا!",
+    "addedALert" : "تمت إضافة بيانات الحساب بنجاح!"
+  },
+}
